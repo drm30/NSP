@@ -1,0 +1,16 @@
+{
+"BASEINFO":
+{
+"FROM":
+[
+"/BSH4/BC_CDS_NSP_OB1"
+],
+"ASSOCIATED":
+[],
+"BASE":
+[],
+"ANNO_REF":
+[],
+"VERSION":0
+}
+}
